@@ -1,0 +1,8 @@
+git을 사용하는 순서
+
+0. 웹브라우저에서 github.com에 sign in한다.
+1. github사이트
+2.
+3.
+4.
+5.
